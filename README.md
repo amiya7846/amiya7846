@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Amiya Ranjan Swain</h1>
 <h3 align="center">🎓 3rd Year CSE (Data Science) Student @ Sai Vidya Institute of Technology, Bangalore 🚀 Aspiring Data Scientist | Python Enthusiast | Passionate about turning data into insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amiya7846&label=Profile%20views&color=0e75b6&style=flat" alt="amiya7846" /> </p>
-
-- 🔭 I’m currently working on **beginner-friendly Python and Data Science projects** (like data analysis with Pandas & visualization with Matplotlib)**
 
 - 🌱 I’m currently learning **Machine Learning, SQL for Data Science, and Deep Learning (TensorFlow & PyTorch)**
 
