@@ -1,113 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Amiya%20Ranjan%20Swain&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Amiya%20Ranjan%20Swain&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Open%20to%20Internships&descAlignY=58&descSize=20&descColor=c9d1ff" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=60&lines=🤖+Aspiring+Data+Scientist;🐍+Python+%26+ML+Enthusiast;📊+Turning+Raw+Data+into+Real+Impact;🏙️+Smart+City+%7C+Civic+Tech+Builder;🔍+Open+to+Internship+Opportunities!" alt="Typing SVG" />
-</a>
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=6A78F5&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hey+there!+I'm+Amiya+%F0%9F%91%8B;Aspiring+Data+Scientist+%F0%9F%A4%96;Python+%26+ML+Enthusiast+%F0%9F+%90%8D;Turning+Data+into+Decisions+%F0%9F%93%8A;VP+%40+Data+Vision+Club+%F0%9F%8F%9B%EF%B8%8F;Open+to+Internship+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=amiya7846&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="profile views"/>
+<!-- BADGES ROW -->
+<a href="https://www.linkedin.com/in/amiyaswain">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:swain.amiya24@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/amiya7846">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=amiya7846&label=Profile+Views&color=6a11cb&style=for-the-badge"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/amiyaswain"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="mailto:swain.amiya24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/amiya7846"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<!-- AVAILABILITY BADGE -->
+<img src="https://img.shields.io/badge/🟢%20Status-Available%20for%20Internships-success?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- ABOUT ME WITH GIF -->
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 👨‍💻 Terminal: amiya@bengaluru
+## 🧑‍💻 About Me
 
-```bash
-┌──(amiya㉿data-lab)-[~/life]
-└─$ cat about_me.json
-```
+```python
+class Amiya:
+    def __init__(self):
+        self.name       = "Amiya Ranjan Swain"
+        self.role       = "Aspiring Data Scientist 🤖"
+        self.university = "Sai Vidya Institute of Technology"
+        self.degree     = "B.E. CSE (Data Science) — 2nd Year"
+        self.location   = "Bengaluru, India 🇮🇳"
+        self.email      = "swain.amiya24@gmail.com"
 
-```json
-{
-  "name"       : "Amiya Ranjan Swain",
-  "role"       : "Aspiring Data Scientist 🤖",
-  "university" : "Sai Vidya Institute of Technology",
-  "degree"     : "B.E. CSE (Data Science) — 2nd Year",
-  "location"   : "Bengaluru, India 🇮🇳",
-  "learning"   : ["Deep Learning", "NLP", "MLOps"],
-  "seeking"    : "Data Science / ML / Analytics Internship 🔍",
-  "languages"  : ["Python 🐍", "SQL 🗄️", "C", "Java"],
-  "superpower" : "Turning messy datasets into clean insights 🧹",
-  "contact"    : "swain.amiya24@gmail.com"
-}
-```
+    def current_focus(self):
+        return [
+            "📚 Deep Learning & NLP",
+            "🔧 Building ML Pipelines",
+            "📊 Data Visualization",
+            "🌐 Open Source Projects",
+        ]
 
-```bash
-┌──(amiya㉿data-lab)-[~/life]
-└─$ echo $STATUS
-🟢 Available for Internships | Response time: < 24hrs
+    def life_goal(self):
+        return "Turn data into decisions that matter 🚀"
+
+me = Amiya()
+print(me.life_goal())
+# Output: Turn data into decisions that matter 🚀
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🎯 What I Bring to the Table
+## ⚡ Quick Facts
 
 <div align="center">
 
-| 💡 Skill | ⚡ Level | 🔧 Tools |
-|---|---|---|
-| Data Analysis & EDA | ████████░░ Advanced | Pandas, NumPy, Seaborn |
-| Machine Learning | ███████░░░ Intermediate | Scikit-learn, XGBoost |
-| Deep Learning | █████░░░░░ Growing | PyTorch |
-| Data Visualization | ████████░░ Advanced | Matplotlib, Tableau, Power BI |
-| Database Management | ██████░░░░ Intermediate | MySQL, Firebase, NoSQL |
-| Web + ML Integration | ██████░░░░ Intermediate | React.js, Firebase |
+🎓 **2nd Year** B.E. CSE (Data Science) &nbsp;|&nbsp; 📍 **Bengaluru, India** &nbsp;|&nbsp; 💼 **Seeking Internship**
+
+🏛️ **VP @ Data Vision Club** &nbsp;|&nbsp; 🇮🇳 **SIH College Qualifier** &nbsp;|&nbsp; 🐍 **Python First**
 
 </div>
 
 ---
 
-## 🚀 Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**🐍 Languages**
+### 🐍 Languages
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql&theme=dark"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**🤖 Data Science & ML**
+### 🤖 ML & Data Science
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark"/>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
 
-**📊 Visualization & Databases**
-
+### 📊 Visualization & Databases
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**🛠️ Tools & Frameworks**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,react,jupyter&theme=dark"/>
 
 </div>
 
@@ -120,40 +115,35 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏙️ Civic Issue Detection & Prioritization System
-> 🏆 **Smart India Hackathon — College Qualifier**
+### 🏙️ Civic Issue Detection System
+> 🏆 Smart India Hackathon — College Qualifier
 
-An end-to-end ML system that detects, classifies and **prioritizes civic complaints** (potholes, garbage overflow) in real time.
+Detects & prioritizes real civic complaints like potholes and garbage overflow using ML models.
 
-**Impact:** Helps city authorities identify hotspots instantly and act faster on ground-level issues.
-
-- 🤖 Models: Random Forest, XGBoost, Decision Tree, Logistic Regression
-- 📍 Hotspot Detection module for critical zone mapping
-- 🔥 Firebase real-time backend + React.js dashboard
+- 🤖 Random Forest, XGBoost, Decision Tree
+- 📍 Hotspot Detection for critical zones
+- 🔥 Firebase + React.js live dashboard
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏠 House Price Prediction Model
-> 📈 **End-to-End ML Regression Pipeline**
+> 📈 End-to-End ML Regression Pipeline
 
-A production-ready ML model that predicts real estate prices with high accuracy using property features.
+Predicts real estate prices from property features with full EDA and visualization pipeline.
 
-**Impact:** Demonstrates complete ML workflow — from raw data to deployable predictions.
-
-- 🧹 Full data cleaning, EDA & feature engineering pipeline
-- 📊 Regression algorithms with hyperparameter tuning
-- 📈 Rich visualizations showing price trends & correlations
+- 🧹 Data cleaning & feature engineering
+- 📊 Regression with hyperparameter tuning
+- 📈 Price trends visualized with Matplotlib
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 
 </td>
 </tr>
@@ -166,95 +156,108 @@ A production-ready ML model that predicts real estate prices with high accuracy 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amiya7846&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiya7846&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amiya7846&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=6a78f5&icon_color=6a78f5&text_color=ffffff" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiya7846&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=6a78f5&text_color=ffffff" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=amiya7846&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=amiya7846&theme=tokyonight&hide_border=true&background=0d1117&ring=6a78f5&fire=6a78f5&currStreakLabel=6a78f5&sideLabels=ffffff&dates=888888" width="55%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=amiya7846&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+<!-- TROPHIES -->
+<img src="https://github-profile-trophy.vercel.app/?username=amiya7846&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Achievements & Leadership
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiya7846&bg_color=0d1117&color=6a78f5&line=6a78f5&point=ffffff&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🏆 Hall of Fame
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🎖️  HALL OF FAME                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  🏛️  Vice President    │  Data Vision Club, SVIT            ║
-║  🇮🇳  SIH Qualifier     │  Smart India Hackathon 2024        ║
-║  🎓  Mentor & Leader   │  AI/ML Workshops & Club Drives     ║
-║  🤝  Community Builder │  Peer Mentoring in Data Science    ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+| 🎖️ | Achievement | Details |
+|---|---|---|
+| 🏛️ | **Vice President** | Data Vision Club — Sai Vidya Institute of Technology |
+| 🇮🇳 | **SIH Qualifier** | Smart India Hackathon 2024 — College Level |
+| 🎓 | **Mentor & Leader** | Organized AI/ML workshops, mentored juniors |
+| 🤝 | **Community Builder** | Peer mentoring in Data Science tools & projects |
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiya7846&theme=tokyo-night&hide_border=true&area=true&color=a78bfa&line=a78bfa&point=ffffff" width="100%"/>
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amiya7846/amiya7846/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amiya7846/amiya7846/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/amiya7846/amiya7846/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/amiya7846/amiya7846/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
 ---
 
-## 💼 I'm Open To
+## 💼 Open To
 
 <div align="center">
 
-![Data Science Intern](https://img.shields.io/badge/Data%20Science-Internship-7c3aed?style=for-the-badge&logo=python&logoColor=white)
-![ML Engineer Intern](https://img.shields.io/badge/ML%20Engineer-Internship-0f172a?style=for-the-badge&logo=pytorch&logoColor=white)
-![Analytics Intern](https://img.shields.io/badge/Analytics-Internship-0284c7?style=for-the-badge&logo=tableau&logoColor=white)
-![Research Intern](https://img.shields.io/badge/AI%20Research-Internship-059669?style=for-the-badge&logo=openai&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
-**📩 Reach me at: swain.amiya24@gmail.com | Response within 24 hours ⚡**
+<br/>
+
+![Data Science](https://img.shields.io/badge/Data%20Science-Internship-6a11cb?style=for-the-badge&logo=python&logoColor=white)
+![ML Engineer](https://img.shields.io/badge/ML%20Engineering-Internship-2575fc?style=for-the-badge&logo=pytorch&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-Internship-0284c7?style=for-the-badge&logo=tableau&logoColor=white)
+![AI Research](https://img.shields.io/badge/AI%20Research-Internship-059669?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+### 📩 swain.amiya24@gmail.com &nbsp;|&nbsp; ⚡ Responds within 24 hours
 
 </div>
 
 ---
 
-## 📬 Let's Connect & Build Something Amazing!
+## 🤝 Let's Connect
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100"/>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/amiyaswain">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect!-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:swain.amiya24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Hire%20Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/amiya7846">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me!-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="65%"/>
 
 <br/><br/>
 
@@ -262,6 +265,6 @@ A production-ready ML model that predicts real estate prices with high accuracy 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=130&section=footer" width="100%"/>
 
 </div>
