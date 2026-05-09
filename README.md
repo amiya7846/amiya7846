@@ -156,9 +156,9 @@ Predicts real estate prices from property features with full EDA and visualizati
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amiya7846&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=6a78f5&icon_color=6a78f5&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amiya7846&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=6a78f5&icon_color=6a78f5&text_color=ffffff&cache_seconds=1800" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiya7846&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=6a78f5&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiya7846&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=6a78f5&text_color=ffffff&cache_seconds=1800" height="180"/>
 
 <br/>
 
@@ -166,13 +166,11 @@ Predicts real estate prices from property features with full EDA and visualizati
 
 <br/><br/>
 
-<!-- TROPHIES -->
 <img src="https://github-profile-trophy.vercel.app/?username=amiya7846&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%"/>
 
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
