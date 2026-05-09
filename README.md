@@ -71,9 +71,9 @@ print(me.life_goal())
 
 <div align="center">
 
-🎓 **2nd Year** B.E. CSE (Data Science) &nbsp;|&nbsp; 📍 **Bengaluru, India** &nbsp;|&nbsp; 💼 **Seeking Internship**
+🎓 **3rd Year** B.E. CSE (Data Science) &nbsp;|&nbsp; 📍 **Bengaluru, India** &nbsp;|&nbsp; 💼 **Seeking Internship**
 
-🏛️ **VP @ Data Vision Club** &nbsp;|&nbsp; 🇮🇳 **SIH College Qualifier** &nbsp;|&nbsp; 🐍 **Python First**
+🏛️ **VP @ Data Vision Club** &nbsp;|&nbsp; 🐍 **Python First** &nbsp;|&nbsp; 🤖 **ML Enthusiast**
 
 </div>
 
@@ -190,9 +190,9 @@ Predicts real estate prices from property features with full EDA and visualizati
 | 🎖️ | Achievement | Details |
 |---|---|---|
 | 🏛️ | **Vice President** | Data Vision Club — Sai Vidya Institute of Technology |
-| 🇮🇳 | **SIH Qualifier** | Smart India Hackathon 2024 — College Level |
 | 🎓 | **Mentor & Leader** | Organized AI/ML workshops, mentored juniors |
 | 🤝 | **Community Builder** | Peer mentoring in Data Science tools & projects |
+| 🚀 | **Hackathon Participant** | Smart India Hackathon 2024 |
 
 </div>
 
