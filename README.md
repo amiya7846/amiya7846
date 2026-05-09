@@ -22,7 +22,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 👨‍💻 Terminal: amiya@bengaluru
 
@@ -64,7 +64,7 @@
 |---|---|---|
 | Data Analysis & EDA | ████████░░ Advanced | Pandas, NumPy, Seaborn |
 | Machine Learning | ███████░░░ Intermediate | Scikit-learn, XGBoost |
-| Deep Learning | █████░░░░░ Growing | PyTorch, TensorFlow |
+| Deep Learning | █████░░░░░ Growing | PyTorch |
 | Data Visualization | ████████░░ Advanced | Matplotlib, Tableau, Power BI |
 | Database Management | ██████░░░░ Intermediate | MySQL, Firebase, NoSQL |
 | Web + ML Integration | ██████░░░░ Intermediate | React.js, Firebase |
@@ -172,7 +172,7 @@ A production-ready ML model that predicts real estate prices with high accuracy 
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amiya7846&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=amiya7846&theme=tokyonight&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="55%"/>
 
 <br/><br/>
 
